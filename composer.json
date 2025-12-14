@@ -1,0 +1,21 @@
+{
+    "name": "thebbapp/smart-banner-google-play",
+    "description": "Google Play smart app banner implementation for BbApp.",
+    "type": "library",
+    "license": "AGPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "BbApp\\SmartBanner\\GooglePlay\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.2.24",
+        "thebbapp/smart-banner": "0.1.0"
+    },
+    "funding": [
+        {
+            "type": "paypal",
+            "url": "https://thebbapp.com/donate"
+        }
+    ]
+}
